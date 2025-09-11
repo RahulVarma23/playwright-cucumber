@@ -45,19 +45,11 @@ The report will be available in the `reports/` directory.
 
 ## Useful Commands
 
-- Run tests:  
-  ```sh
-  npm test
-  ```
-- Generate HTML report:  
-  ```sh
-  npm run generate-report
-  ```
+- Run tests: npm test
+ 
+- Generate HTML report:  npm run generate-report
 
 ## Notes
 
 - The `node_modules/` and `reports/` directories are excluded from version control.
 - Commit your `package-lock.json` for consistent dependency management.
-
----
-Feel free to update this README with additional project-specific details.
