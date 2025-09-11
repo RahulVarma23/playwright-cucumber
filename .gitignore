@@ -1,1 +1,4 @@
 /node_modules
+/reports
+cucumber_report.json
+.DS_Store
